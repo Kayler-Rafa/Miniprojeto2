@@ -23,7 +23,7 @@ O projeto é dividido em três partes principais:
      - Um arquivo CSV (`buffer_data.csv`) registrando a quantidade de itens no buffer em cada timestep.
 
    **Exemplo de Gráfico:**
-   ![Gráfico de Uso do Buffer](buffer_plot.png)
+   ![Gráfico de Uso do Buffer](output/buffer_plot.png)
 
 ## Executando o Projeto
 
